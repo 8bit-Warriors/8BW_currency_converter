@@ -7,7 +7,7 @@
 
 ## For Testing Purpose
 
-1.Make a account on [freecuurency-api](https://freecurrencyapi.com/)  
+1.Make a account on [freecurency-api](https://freecurrencyapi.com/) by clicking on get 100 %...
 2.Clone a repo using command `git clone https://github.com/rd-sharma7/8BW_currency_converter.git`  
 3.In a currency_converter.py Change a API_KEY variable value with default key as shows in that 
 ![Screenshot 2024-01-19 173843](https://github.com/rd-sharma7/8BW_currency_converter/assets/129971777/50edb143-e4dd-424a-94e9-06db9a7aff7f)
